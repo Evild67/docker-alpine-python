@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv sh
+
+cd /app
+python example.py
